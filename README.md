@@ -3,7 +3,7 @@ This is a Node.js application that implements a RAG-based (Retrieval-Augmented G
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. You would need to install and run Ollama and Chroma locally on your system.
 
 ### Prerequisites
 
@@ -14,8 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd <project-directory>`
+1. Clone the repository: `git clone https://github.com/vinay-sharma-private/node-lchain-ollama-chroma`
+2. Navigate to the project directory: `cd node-lchain-ollama-chroma`
 3. Install the dependencies: `npm install`
 
 ## Running the Application
