@@ -29,7 +29,7 @@ To start the application, run: `node index.js`
 ## Built With
 
 - [Ollama](https://ollama.ai/): A library for getting up and running with large language models locally.
-- [Chroma](https://docs.trychroma.com/getting-started): A AI-native open-source embedding database.
+- [Chroma](https://docs.trychroma.com/getting-started): An AI-native open-source embedding database.
 - [Langchain](https://www.langchain.com/): A framework for developing applications powered by language models.
 
 ## License
