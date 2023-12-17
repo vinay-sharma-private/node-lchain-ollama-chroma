@@ -30,6 +30,7 @@ To start the application, run: `node index.js`
 
 - [Ollama](https://ollama.ai/): A library for conversational retrieval.
 - [Chroma](https://docs.trychroma.com/getting-started): A vector store for managing embeddings.
+- [Langchain](https://www.langchain.com/): A framework for developing applications powered by language models.
 
 ## License
 
