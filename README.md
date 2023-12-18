@@ -1,6 +1,12 @@
 # node-lchain-ollama-chroma
 This is a Node.js application that implements a RAG-based (Retrieval-Augmented Generation) system using the Ollama, Langchain, and Chroma libraries. It exposes two API endpoints: one for uploading documents and inserting them into the vector store, and another for sending a prompt to the LLM.
 
+
+
+
+https://github.com/vinay-sharma-private/node-lchain-ollama-chroma/assets/153127781/c60c9918-29ed-4b96-bc4f-ed39d2f68829
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. You would need to install and run Ollama and Chroma locally on your system.
